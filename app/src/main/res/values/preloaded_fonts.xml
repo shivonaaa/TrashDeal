@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/amethysta</item>
+        <item>@font/arizonia</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/croissant_one</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/finger_paint</item>
+        <item>@font/pt_serif_caption_italic</item>
+        <item>@font/salsa</item>
+        <item>@font/volkhov</item>
+    </array>
+</resources>
